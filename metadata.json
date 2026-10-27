@@ -1,0 +1,6 @@
+{
+  "name": "Code Quest: Bug Hunter",
+  "description": "Fast-paced programming quiz game with Jetpack Compose Material 3 dark styling, neon green and purple accents, 50 offline JS/React/Node questions, 20s timers, and bug hunting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
